@@ -2,3 +2,8 @@
     font-family: "Parisiene";
     src: url(../fonts/Parisienne.ttf) format("truetype");
 }
+
+@font-face {
+    font-family: "TheSeasons";
+    src: url(../fonts/TheSeasons.otf) format(truetype);
+}
