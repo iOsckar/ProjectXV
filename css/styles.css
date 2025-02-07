@@ -1,5 +1,10 @@
 @import url(reset.css);
+@import url(general.css);
 @import url(fonts.css);
 
+
+
 @import url(front-page.css);
+@import url(invitation.css);
+
 
