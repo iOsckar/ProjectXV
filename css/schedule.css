@@ -14,6 +14,34 @@ iframe {
 	padding-left: 20px;
    }
 
+#schedule img {
+    width: 60px;
+   }
+
+#img_church {
+    filter: invert(93%) sepia(76%) saturate(5821%) hue-rotate(328deg) brightness(89%) contrast(81%);
+}
+
+#img_event {
+    filter: invert(39%) sepia(35%) saturate(5394%) hue-rotate(273deg) brightness(85%) contrast(94%);
+}
+
+#img_music {
+    filter: invert(42%) sepia(70%) saturate(2989%) hue-rotate(322deg) brightness(94%) contrast(88%);
+}
+
+.title {
+    font-family: "TheSeasons";
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.descr {
+    font-family: "TheSeasons";
+    font-size: 18px;
+}
+
 #schedule h1 {
 	color: rgb(95, 80, 57);
 	font-family: "TheSeasons";
