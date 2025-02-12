@@ -1,0 +1,17 @@
+#song {
+    background: rgb(238,28,236);
+    background: linear-gradient(299deg, rgba(238,28,236,1) 0%, rgba(166,42,65,1) 100%);
+    height: auto;
+}
+
+#song h1 {
+    font-family: "TheSeasons";
+    font-size: 30px;
+    color: rgb(237, 237, 237);
+    text-align: center;
+    margin: 40px;
+}
+
+#song iframe {
+    margin: 10px;
+}
